@@ -19,8 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="![preview](https://github.com/JVamarante/MeusLinksJV/assets/142950422/291443d8-7d0e-4a12-aa82-d567e2cd4a86)
-" width="100%">
+  <img alt="projeto DevLinks" src="/assets/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
